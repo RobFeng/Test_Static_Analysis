@@ -11,5 +11,10 @@
         {
             return x - y;
         }
+
+        public decimal Multiplication(int x, int y)
+        {
+            return x * y;
+        }
     }
 }
