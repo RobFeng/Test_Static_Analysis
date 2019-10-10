@@ -4,7 +4,7 @@
     {
         public int Addition(int x, int y)
         {
-            return y + x;
+            return x + y;
         }
 
         public int Subtraction(int x, int y)
