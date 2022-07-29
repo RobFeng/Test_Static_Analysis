@@ -1,4 +1,4 @@
-﻿namespace code_example111
+﻿namespace code_example111222
 {
     public class SimpleArithmetic
     {
