@@ -1,4 +1,4 @@
-﻿namespace code_example
+﻿namespace code_example111
 {
     public class SimpleArithmetic
     {
@@ -14,7 +14,7 @@
 
         public decimal Division(int x, int y)
         {
-            return x / y;
+            return x / y;222
         }
 
         public int Multiplication(int x, int y)
